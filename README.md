@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://pating.github.io]
+地址：[https://pating.github.io]
 
 ### 安装说明
 
