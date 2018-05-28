@@ -4,7 +4,6 @@ email: xiechanglong.d@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   xie's blog
 baseurl: "" # the subpath of your site, e.g. /blog/
-#url: http://yansu.org # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Xie Changlong
 
@@ -21,9 +20,6 @@ instagram:
 linkedin: 
 
 # avatar and Favicon
-https://item.btime.com/m_93fa2c27b8b5b8b9d
-#favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
-
 # disqus config
 #disqus:
 #  shortname: suyan-zh
